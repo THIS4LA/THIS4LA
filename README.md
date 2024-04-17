@@ -41,10 +41,3 @@
 
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/ravinduthis) 
-
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-=======
-![snake gif](https://github.com/THIS4LA/THIS4LA/blob/output/github-contribution-grid-snake.svg)
->>>>>>> fbaf47d46eddef5669e158e016764d9f3006e0e3
