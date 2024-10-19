@@ -13,6 +13,8 @@
   />
 </picture>
 
+![snake gif](https://github.com/YOUR_USERNAME/THIS4LA/blob/output/github-snake-dark.svg)
+
 ###
 
 # 💻 Tech Stack:
