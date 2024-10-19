@@ -1,19 +1,17 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://github.com/THIS4LA/THIS4LA/blob/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    srcset="https://github.com/THIS4LA/THIS4LA/blob/output/github-snake.svg"
   />
   <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    alt="GitHub contribution grid snake animation"
+    src="https://github.com/THIS4LA/THIS4LA/blob/output/github-snake.svg"
   />
 </picture>
-
-![snake gif](https://github.com/YOUR_USERNAME/THIS4LA/blob/output/github-snake-dark.svg)
 
 ###
 
